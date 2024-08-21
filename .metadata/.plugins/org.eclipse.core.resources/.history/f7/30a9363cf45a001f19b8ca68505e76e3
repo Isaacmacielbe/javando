@@ -1,0 +1,12 @@
+package fundamentos;
+
+public class EstruturDeDados {
+
+	public static void main(String[] args) {
+		int[] numeros = {1,2,3,4,5};
+		System.out.println(numeros[0]);
+		
+		numeros [0] = 1;
+	}
+
+}

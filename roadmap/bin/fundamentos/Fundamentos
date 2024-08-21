@@ -1,0 +1,22 @@
+Tipos de dados de variáveis ​​em Java: primitivos e não primitivos
+Os tipos de dados de variáveis ​​em Java são divididos em dois grupos:
+Os tipos de dados primitivos incluem byte , short , int , long , float , double , boolean e char
+Tipos de dados não primitivos, como String , Arrays e Classes
+
+--------------------------------------------------------------------------------------------------------
+
+Tipos de variáveis ​​em Java: local, instância e estática
+Existem três tipos diferentes de variáveis ​​em Java, nós as listamos a seguir:
+Variáveis ​​locais
+Variáveis ​​de instância
+Variáveis ​​estáticas
+
+Variáveis ​​locais
+Uma variável declarada dentro do corpo do método é chamada de variável local, Você não pode usá-lo do outro método
+
+Variáveis ​​de instância
+Uma variável declarada dentro da classe, mas fora do corpo de qualquer método, construtor ou bloco, é chamada de variável de instância.
+As variáveis ​​de instância são criadas quando um objeto é criado usando a palavra-chave new	
+
+variáveis ​​estáticas
+Uma variável declarada como estática é chamada de variável estática. Java permite que você declare tais variáveis ​​fora de um método, construtor ou bloco. Não pode ser local, eles pertencem à classe, não às instâncias. 

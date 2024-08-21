@@ -1,0 +1,5 @@
+E quando o usuario passa um valor no sistema que não é correto, como a exception vai tratar isso ?
+Resposta: a abordagem geral é validar a entrada antes de processá-la e tratar quaisquer problemas que possam surgir.
+
+Exceções podem ser usadas para lidar com situações inesperadas ou erros durante a execução, 
+mas a validação de entrada é o primeiro passo para garantir que a entrada do usuário seja adequada.
