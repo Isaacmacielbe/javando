@@ -1,8 +1,0 @@
-package excecoes;
-
-public class ExercicieTwo {
-
-	public static void main(String[] args) {
-		
-	}
-}

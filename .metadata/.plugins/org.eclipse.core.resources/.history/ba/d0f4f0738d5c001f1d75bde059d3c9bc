@@ -1,9 +1,0 @@
-Explicações:
-
-Scanner scanner = new Scanner(System.in); é usado para ler as entradas do usuário do console.
-Um loop while é usado para exibir um menu que permite ao usuário adicionar, remover, listar tarefas ou sair do programa.
-O usuário pode adicionar uma nova tarefa que é lida pelo Scanner e adicionada ao ArrayList com tasks.add(task);.
-O usuário insere o índice da tarefa a ser removida, e o programa verifica se o índice é válido antes de remover a tarefa.
- As tarefas armazenadas no ArrayList são listadas, exibindo também os índices para facilitar a remoção.
- É uma boa prática fechar o Scanner ao final do uso para evitar vazamento de recursos.
- 
